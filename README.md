@@ -20,8 +20,6 @@ You agree to inform the authors (Matt Watts and Bob Pressey) of any publications
 
 You agree to acknowledge the intellectual property of the authors (Matt Watts and Bob Pressey) in all published work, applications and dealings with this software.
 
-You should not distribute C-Plan to other people. Instead refer them here.
-
 By downloading the software, you agree to these conditions of use. 
 
 # Instructions on installing C-Plan (version 4)
